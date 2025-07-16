@@ -16,9 +16,9 @@
     
 }
 .header img{
-    height: 200px;
+    height: 250px;
     width: auto;
-    margin: 0 100px 50px 0;
+    /* margin: 0 100px 50px 0; */
     
 }
 .logo{
@@ -41,6 +41,7 @@
     justify-content: center;
     /* margin: 0 200px 0 200px ; */
     align-items: flex-start;
+    padding: 0 0 0 100px;
 }
 .header-right{
     display: flex;
